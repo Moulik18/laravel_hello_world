@@ -7,7 +7,7 @@ This is a basic guide to get you started with a new Laravel project.
 Make sure you have [Composer](https://getcomposer.org/) installed.
 
 <details>
-  <summary>Step 1 Command : create Project in Laravel</summary>
+  <summary>Step 1 Command : </summary>
   laravel new hello_world
 </details>
 

@@ -43,5 +43,3 @@ cd your-project-name">Copy</button>
         console.error('Error copying command to clipboard:', e);
     });
 </script>
-
-

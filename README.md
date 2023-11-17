@@ -6,7 +6,7 @@ This is a basic guide to get you started with a Laravel project using the Larave
 
 Make sure you have [Composer](https://getcomposer.org/) installed.
 
-```bash
+
 laravel new hello_world
 
 <button data-clipboard-text="composer create-project --prefer-dist laravel/laravel your-project-name

@@ -6,7 +6,7 @@ This is a basic guide to get you started with a new Laravel project.
 
 Make sure you have [Composer](https://getcomposer.org/) installed.
 
-```bash
+
 laravel new hello_world
 cd hello_world
 

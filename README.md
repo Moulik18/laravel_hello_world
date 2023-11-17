@@ -6,11 +6,18 @@ This is a basic guide to get you started with a new Laravel project.
 
 Make sure you have [Composer](https://getcomposer.org/) installed.
 
-laravel new your-project-name
-cd your-project-name
+```bash
+laravel new hello_world
+cd hello_world
 
-<button onclick="copyToClipboard('laravel new your-project-name\ncd your-project-name')">Copy</button>
+<button onclick="copyToClipboard('laravel new hello_world\ncd hello_world')">Copy</button>
 
+<details>
+  <summary>Copy Instructions</summary>
+Click the "Copy" button.
+Open your terminal.
+Paste the copied command and press Enter.
+</details>
 <script>
     function copyToClipboard(text) {
         var textarea = document.createElement('textarea');
@@ -22,4 +29,3 @@ cd your-project-name
         alert('Command copied to clipboard!');
     }
 </script>
-

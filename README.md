@@ -1,14 +1,13 @@
 # Laravel Quick Start
 
-This is a basic guide to get you started with a new Laravel project.
+This is a basic guide to get you started with a Laravel project using the Laravel installer.
 
 ## Step 1: Install Laravel
 
 Make sure you have [Composer](https://getcomposer.org/) installed.
 
 ```bash
-composer create-project --prefer-dist laravel/laravel your-project-name
-cd your-project-name
+laravel new hello_world
 
 <button data-clipboard-text="composer create-project --prefer-dist laravel/laravel your-project-name
 cd your-project-name">Copy</button>

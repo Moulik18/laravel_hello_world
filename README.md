@@ -13,7 +13,7 @@ This is a basic guide to get you started with a new Laravel project.
 
 <details>
   <summary>Step 2 Command : </summary>
-  laravel new hello_world
+  cd hello_world
 </details>
 
 
